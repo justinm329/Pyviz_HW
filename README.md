@@ -1,1 +1,3 @@
-# Pyviz_HW
+# San Francisco Reality Analysis
+
+### This dashboard is very user friendly, it has three different tabs to choose each with a different analysis. The welcome tab shows a map of the San Francisco and the different areas with the average rent and sales price. The next tab is Average Gross Rent and Sales price, thi shows three different graphs one with the average rent, sales price per unit and the top ten most expensive neighborhoods. When looking at this you can see that over the past 6 years it has gotten more expensive to live in this area. Finally the last tab compares each neighborhood with the sales price on a line graph and then a double bar grpah that compares the rent and sales price for each neighborhood. 
